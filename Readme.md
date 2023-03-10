@@ -1,1 +1,1 @@
-Pequeno gerador de PDF feito na linguagem Python.
+Pequeno gerador de PDF feito em Python.
