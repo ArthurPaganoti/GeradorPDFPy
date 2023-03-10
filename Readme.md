@@ -1,1 +1,1 @@
-Pequeno gerador de PDF feito em Python.
+Pequeno gerador de PDF com formato de lista feito em Python.
